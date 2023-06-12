@@ -1,0 +1,9 @@
+.foodCard{
+    box-shadow: 0 1px 3px rgba(241, 233, 233, 0.712), 0 1px 2px rgba(248, 245, 245, 0.973);
+    transition: transform 0.3s ease-in-out;
+
+}
+.foodCard:hover {
+    transform: scale(1.05);
+  }
+  

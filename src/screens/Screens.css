@@ -1,0 +1,33 @@
+.forms {
+    border-radius: 15px;
+    margin-top:100px;
+    background-color: rgba(255, 255, 255, 0.966);
+    color: black;
+    width: 400px;
+    box-shadow: 0 2px 4px rgba(255, 249, 249, 0.904), 0 6px 12px rgba(233, 222, 222, 0.1), 0 12px 24px rgba(250, 246, 246, 0.1);
+
+
+
+  }
+  h2{
+    color: rgb(43, 88, 39) !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+ 
+  .top{
+    max-width: 50%; 
+    margin: 0 auto;
+  }
+  .container.forms .form-group input {
+    width: 100%;
+    padding: 8px;
+    box-shadow: 0 5px 16px rgba(0, 0, 0, 0.1);
+
+  }
+  .container.forms .form-group label{
+    font-size: 20px;
+  }
